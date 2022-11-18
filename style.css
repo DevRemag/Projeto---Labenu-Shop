@@ -58,7 +58,7 @@ body {
 
 .button-style {
     height: 48px;
-    background-color: #1c40cf;
+    background-color: #fc7d03;
     display: flex;
     align-items: center;
     padding: 0px 32px;
@@ -67,7 +67,7 @@ body {
     font-size: 15px;
 }
 .button-style:hover {
-    background-color:#021769ec  ;
+    background-color:#989baaec  ;
 }
 
 .containerprodutos {
@@ -121,7 +121,7 @@ body {
 }
 
 .carrinho {
-    background-color: #1c40cf;
+    background-color: #f9b14f;
     color: white;
     border: none;
     border-radius: 8px;
@@ -133,4 +133,9 @@ body {
     color: #ffffff;
     text-decoration: none;
 
+}
+
+.logolabenu {
+    width: 30%;
+    padding: 10;
 }
